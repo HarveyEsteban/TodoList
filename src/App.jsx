@@ -75,11 +75,11 @@ const App = () => {
       className='absolute top-20 left-60 w-80 h-72 object-cover pointer-events-none select-none opacity-70 hidden  lg:block'
       />
 
-    <img 
+{/*     <img 
       src={Vector2} 
       alt="studying" 
       className='absolute top-200 left-385 w-80 h-72 object-cover pointer-events-none select-none opacity-70 hidden lg:block'
-      />
+      /> */}
 
 
 
